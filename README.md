@@ -87,7 +87,7 @@
 国外服务器：
 
 ```bash
-curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh || wget -O ${_##*/} $_
+curl -O https://raw.githubusercontent.com/newyongt/reinstall/oct2/reinstall.sh || wget -O ${_##*/} $_
 ```
 
 国内服务器：
